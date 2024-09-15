@@ -1,0 +1,3 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/nodejs-20","time":"2024-09-15T18:18:22Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit","time":"2024-09-15T18:18:22Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/js-yaml","time":"2024-09-15T18:18:22Z"}
